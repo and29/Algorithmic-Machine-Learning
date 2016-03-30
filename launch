@@ -1,1 +1,1 @@
-google-chrome --proxy-server=socks://192.168.45.3:32773 --user-data-dir=/tmp/chrome-zoe-$USER http://192.168.45.252:8080/guest
+google-chrome --proxy-server=socks://192.168.45.9:32786 --user-data-dir=/tmp/chrome-zoe-$USER http://192.168.45.252:8080/guest
